@@ -90,10 +90,7 @@ erDiagram
 | **Banco de Dados** | MySQL / PostgreSQL |
 | **ORM** | Spring Data JPA / Hibernate |
 | **Gerenciador de Dependências** | Maven |
-| **Testes** | JUnit |
-| **Utilitários** | Lombok, SpringDoc OpenAPI (Swagger UI) |
-| **IDE Recomendadas** | IntelliJ IDEA / Eclipse / VS Code |
-| **Controle de Versão** | Git & GitHub |
+| **Controle de Versão**          | Git & GitHub                |
 
 ---
 
